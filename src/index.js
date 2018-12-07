@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 
-import { Route, Link, BrowserRouter } from 'react-router-dom';
+import { Route, 
+    // Link, 
+    BrowserRouter } from 'react-router-dom';
 import { Switch } from 'react-router';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
